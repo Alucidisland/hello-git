@@ -1,2 +1,3 @@
 # hello-git
-git setup
+
+git setup to showcase knowledge of setting up github and utilizing version control
